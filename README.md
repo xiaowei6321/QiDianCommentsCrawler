@@ -4,6 +4,7 @@
 使用说明：
 运行A10爬虫文件，根据需要更换url，url为待爬取书籍目录页
 
+![Uploading image.png…]()
 
 
 
